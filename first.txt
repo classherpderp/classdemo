@@ -1,7 +1,7 @@
 One
 One point five
 
-NEW TWO
-NEW TWO POINT FIVE
+NOTHING
+
 Three
 
